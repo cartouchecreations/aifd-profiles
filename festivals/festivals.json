@@ -1,0 +1,386 @@
+{
+  "updated": "2026-11-01",
+  "featured": null,
+  "events": [
+    {
+      "label": "AFM 2026 + The AFM House",
+      "when": "Nov 10–15, 2026",
+      "where": "Fairmont Century Plaza, Los Angeles",
+      "end": "2026-11-15",
+      "desc": "The American Film Market, with The Summit at AFM themed \"The New Global Screen Economy.\" The AFM House is the place to meet the companies building AI and emerging tools for film and TV.",
+      "href": "https://americanfilmmarket.com/"
+    },
+    {
+      "label": "AI Creative Summit 2026",
+      "when": "Nov 11, 2026",
+      "where": "BFI Southbank, London, UK",
+      "end": "2026-11-11",
+      "desc": "A one-day industry conference from Broadcast and Screen International on how AI is actually being used in film and TV. Three streams fill the whole building, with speakers from Framestore, BBC R&D, Sky and Atlantic Studios.",
+      "href": "https://www.aicreativesummit.co.uk/"
+    },
+    {
+      "label": "Artist and the Machine: LA Summit 2026",
+      "when": "Dec 2, 2026",
+      "where": "Mid-city Los Angeles",
+      "end": "2026-12-02",
+      "desc": "A day of talks, live showcases and hands-on workshops on AI and creativity, capped at about 500 people. Gossip Goblin, Kelly Boesch and Meow Wolf founder Vincent Kadlubek are among the speakers. Tickets are by request.",
+      "href": "https://luma.com/g0wkb58e"
+    },
+    {
+      "label": "NAB Show 2027",
+      "when": "Apr 4–7, 2027",
+      "where": "Las Vegas Convention Center, Las Vegas",
+      "end": "2027-04-07",
+      "desc": "The big broadcast and production trade show, pitched for 2027 around next-gen workflows and AI. The session lineup isn't posted yet.",
+      "href": "https://www.nabshow.com/"
+    }
+  ],
+  "fests": [
+    {
+      "label": "(UN)REAL AI Film Festival",
+      "when": "Nov 27–28, 2026",
+      "where": "Feat. House, Turin, Italy",
+      "deadline": "Extended to Nov 7, 2026 (€50 per film)",
+      "end": "2026-11-28",
+      "desc": "Two days in Turin with six categories and a Grand Prix, plus awards for screenplay, acting, technical achievement and an audience prize.",
+      "href": "https://unrealfilmfestival.com/"
+    },
+    {
+      "label": "Jaipur International Film Festival: World AI Cinema Competition",
+      "when": "Jan 8–12, 2027",
+      "where": "Jaipur, India",
+      "deadline": "Extended Nov 15, 2026; final Dec 5, 2026",
+      "end": "2027-01-12",
+      "desc": "The AI competition inside a long-running international festival, with ten AI categories covering shorts, features, documentary, animation, music video and screenplay. Entry fees are paid in Indian rupees.",
+      "href": "https://www.jiffindia.org/"
+    },
+    {
+      "label": "Cine Prague AI Film Festival",
+      "when": "Dec 1, 2026",
+      "where": "Prague, Czech Republic",
+      "deadline": "Extended Nov 18, 2026 ($24; $50 for Best AI Short Film)",
+      "end": "2026-12-01",
+      "desc": "Shorts up to 5 minutes, whether AI-made, AI-assisted or traditional. The top film wins $1,000 cash.",
+      "href": "https://filmmakers.festhome.com/festival/10579"
+    },
+    {
+      "label": "AI Film Award 2027 (1 Billion Followers Summit)",
+      "when": "Winner announced Jan 10, 2027",
+      "where": "Dubai, UAE",
+      "deadline": "Nov 20, 2026",
+      "end": "2027-01-10",
+      "desc": "A $1,000,000 grand prize for a 5 to 7 minute film, with at least 70% generated in Seedance. Open worldwide to creators 18 and over. The Top 5 premiere at the summit on Jan 9.",
+      "href": "https://www.1billionsummit.com/ai-film-award"
+    },
+    {
+      "label": "AI International Film Festival (monthly)",
+      "when": "Next Hollywood show Nov 15, 2026",
+      "where": "Los Angeles Performing Arts Conservatory, Hollywood · Monthly",
+      "deadline": "Regular deadline Nov 21, 2026 (early bird closed Oct 31)",
+      "end": "2026-12-12",
+      "desc": "A non-profit festival that screens AI films in Hollywood every month. Its new Film Superintelligence challenge (any format, any length) has its first show on Dec 12.",
+      "href": "https://aifilmfest.org/"
+    },
+    {
+      "label": "AI Slop Film Festival (Season 2)",
+      "when": "Jan 23, 2027",
+      "where": "Rumiversal Studio, Toronto, Canada",
+      "deadline": "Next price tier Nov 21; final Dec 16, 2026",
+      "end": "2027-01-23",
+      "desc": "A one-night screening for the weird and wonderful side of AI film, with awards like Slop of the Year and Best Meme Cinema next to Best AI Film. The earlier you enter, the cheaper it is.",
+      "href": "https://aislopfestival.com/"
+    },
+    {
+      "label": "World AI Film Festival (WAIFF) Los Angeles",
+      "when": "Late March 2027",
+      "where": "Los Angeles, CA",
+      "deadline": "Regular Nov 30, 2026 ($45, student/youth $25); late Jan 20, 2027 ($60 / $35)",
+      "end": "2027-03-31",
+      "desc": "The US edition of WAIFF. Five of its eleven winners go on to the WAIFF Grand Finale in Cannes. Every entry needs a Production Journal of the AI tools used, no premiere is required, and advancing films must come from US-based creators.",
+      "href": "https://worldaifilmfestival.us/"
+    },
+    {
+      "label": "Chroma Awards: Season 2",
+      "when": "Winners Feb 11, 2027; gala April 2027",
+      "where": "Online",
+      "deadline": "Jan 7, 2027",
+      "end": "2027-04-30",
+      "desc": "A large online competition across film and TV, ads, music videos, games, behind-the-scenes and student work. The listed prize total is $263,750, with a $450,000+ cash and perk pool.",
+      "href": "https://www.chromaawards.com/"
+    },
+    {
+      "label": "Artefact AI Film Festival",
+      "when": "Awards Feb 2027",
+      "where": "MK2 Bibliothèque, Paris, France",
+      "deadline": "Opens Dec 9, 2026; closes Jan 13, 2027",
+      "end": "2027-02-28",
+      "desc": "A €10,000 top prize plus €1,000 jury, audience and best-use-of-AI awards. Olivier Nakache and Éric Toledano are the jury presidents.",
+      "href": "https://artefact-ai-film-festival.com/"
+    },
+    {
+      "label": "AI Cinema Festival Québec City",
+      "when": "Feb 19–21, 2027",
+      "where": "Hilton Québec, Québec City, Canada",
+      "deadline": "Jan 24, 2027",
+      "end": "2027-02-21",
+      "desc": "Open worldwide to hybrid human + AI films and fully AI films, in three tracks including Future Formats (vertical, XR, music video and more). Five awards include a Responsible AI Cinema Award.",
+      "href": "https://quebec.aicinemafestival.com/"
+    },
+    {
+      "label": "AI for Good Film Festival 2027",
+      "when": "June 22, 2027",
+      "where": "Palexpo, Geneva, Switzerland",
+      "deadline": "Opens Jan 15, 2027; closes May 1, 2027 (23:59 CEST)",
+      "end": "2027-06-22",
+      "desc": "The UN ITU festival for 1 to 10 minute films about AI's positive impact. Finalists screen at the premiere and get a speaker pass to the AI for Good Global Summit. Films must be completed between Sept 1, 2026 and May 1, 2027.",
+      "href": "https://aiforgood.itu.int/ai-for-good-film-festival/"
+    },
+    {
+      "label": "AIMA: AI Movie Awards London",
+      "when": "Nov 7–8, 2026",
+      "where": "IET London, Savoy Place, London, UK",
+      "end": "2026-11-08",
+      "desc": "An industry day on Nov 7 and a gala on Nov 8, with film, music video, music, art and ad categories. Submissions are closed, but tickets are still on sale.",
+      "href": "https://www.aimovieawards.org/"
+    },
+    {
+      "label": "African AI Film Festival",
+      "when": "Nov 21 (Hollywood) & Dec 12 (Kampala), 2026",
+      "where": "Hollywood, USA & Kampala, Uganda",
+      "end": "2026-12-12",
+      "desc": "The first edition, with nine awards including Best Film by an African-Based Filmmaker. Winners get AI tool credits, mentorship and pitch opportunities. Submissions closed Oct 20.",
+      "href": "https://africanaifilmfestival.org/"
+    },
+    {
+      "label": "Slamdance DIG",
+      "when": "Feb 18–24, 2027",
+      "where": "Los Angeles, CA",
+      "end": "2027-02-24",
+      "desc": "Slamdance points AI-made work to its DIG category. 2027 submissions are closed, and selections are announced Dec 17, 2026.",
+      "href": "https://slamdance.com/festival-submit"
+    },
+    {
+      "label": "AIMA: AI Movie Awards Mallorca",
+      "when": "Mar 26–27, 2027",
+      "where": "Meliá South Beach, Magaluf, Mallorca, Spain",
+      "end": "2027-03-27",
+      "desc": "The next AIMA edition, back in Mallorca where it started. Submission dates aren't posted yet.",
+      "href": "https://www.aimovieawards.org/"
+    },
+    {
+      "label": "World AI Film Festival (WAIFF) Cannes 2027",
+      "when": "Apr 6–7, 2027",
+      "where": "Palais des Festivals, Cannes, France",
+      "end": "2027-04-07",
+      "desc": "The Grand Finale of the WAIFF circuit. Regional editions like WAIFF Los Angeles send their top winners here.",
+      "href": "https://worldaifilmfestival.com"
+    }
+  ],
+  "concluded": [
+    {
+      "label": "CLOWD: The AI Film Festival",
+      "when": "Glendale · Oct 7–8, 2026",
+      "where": "Alex Theatre",
+      "desc": "First edition: 22 finalist films from 11 countries over two nights. AIFD was an official sponsor.",
+      "winners": [
+        [
+          "Grand Prize + Best Short Narrative",
+          "When You Run From Your Mother — Edmond Yang"
+        ],
+        [
+          "Best Fantasy + Attention Award",
+          "What the Deep Knows — Claudia Lalau"
+        ],
+        [
+          "Judges Award",
+          "A Face Only a Mother Could Love — Robert Gaudette"
+        ],
+        [
+          "Best Utopia Film",
+          "GITA — Alex Lang"
+        ],
+        [
+          "Best Music Video",
+          "Bang Bang — Toby Hyder"
+        ]
+      ],
+      "href": "https://www.clowdfilmfest.com/"
+    },
+    {
+      "label": "Austin AI Film Festival 2026",
+      "when": "Austin · Oct 16–17, 2026",
+      "where": "Zach Theatre, Austin, TX",
+      "desc": "Eleven awards across shorts, features, documentary, music video, series and more, after a day of summit panels on how this year's films were made.",
+      "winners": [
+        [
+          "Short Film",
+          "The Morisca - Seif Abdalla"
+        ],
+        [
+          "Feature Film",
+          "MindPods - Jeff Synthesized"
+        ],
+        [
+          "Documentary",
+          "The Sultana Disaster of 1865 - Gavin Carlton"
+        ],
+        [
+          "Micro-Short",
+          "Kev - Mike Bennion"
+        ]
+      ],
+      "href": "https://www.austinaifilmfest.com/"
+    },
+    {
+      "label": "AI Film Festival Japan 2026",
+      "when": "Tokyo · Oct 31 – Nov 2, 2026",
+      "where": "Tokyo Innovation Base",
+      "desc": "Japan's AI film festival, with awards including the CapCut AI Creative Award and Best Use of Voice presented by ElevenLabs. Winners will be posted on the festival site.",
+      "href": "https://aifilm.jp/"
+    },
+    {
+      "label": "Runway AI Film Festival (AIFF) 2026",
+      "when": "Winners announced",
+      "where": "Runway",
+      "desc": "Films of 3 to 15 minutes using generative video, screened in New York, Los Angeles and Tokyo. The Grand Prix paid $50,000 plus Runway credits.",
+      "winners": [
+        [
+          "Grand Prix",
+          "A Face Only A Mother Could Love - Robert Gaudette"
+        ],
+        [
+          "Gold",
+          "THE WELL - Dorian & Daniel"
+        ],
+        [
+          "Silver",
+          "Where Knights Fall - Mathery"
+        ]
+      ],
+      "href": "https://aif.runwayml.com"
+    },
+    {
+      "label": "Reply AI Film Festival 2026",
+      "when": "Venice · Sept 6, 2026",
+      "where": "Reply",
+      "desc": "Ten finalists, with winners announced in Venice alongside the 83rd Venice International Film Festival. First place won €8,000.",
+      "winners": [
+        [
+          "1st Place",
+          "A Face Only A Mother Could Love - Robert Gaudette"
+        ],
+        [
+          "2nd Place",
+          "Le Drip - Alex Naghavi & Ezra Li"
+        ],
+        [
+          "3rd Place",
+          "Centenarian Kindergarten - 2xLabs"
+        ],
+        [
+          "Reply AI Studios Grand Prix",
+          "Website - Jiaze Li"
+        ]
+      ],
+      "href": "https://www.reply.com/en/newsroom/news/robert-gaudette-wins-the-reply-ai-film-festival-2026"
+    },
+    {
+      "label": "Luma Dream Brief",
+      "when": "Cannes Lions · June 2026",
+      "where": "Luma AI × Cannes Lions",
+      "desc": "Almost 400 AI-made ads in under eight weeks. Luma submitted 21 finalists to Cannes Lions.",
+      "href": "https://lumalabs.ai/news/luma-dreambrief-submission-finalists"
+    },
+    {
+      "label": "AI for Good Film Festival 2026",
+      "when": "Geneva · 2026",
+      "where": "ITU / United Nations",
+      "desc": "The UN-backed festival for films about AI's positive impact on society. The 2027 call opens Jan 15, 2027.",
+      "winners": [
+        [
+          "Winner",
+          "Plastic Erosion"
+        ]
+      ],
+      "href": "https://aiforgood.itu.int/ai-for-good-film-festival/"
+    },
+    {
+      "label": "AI Film Fest Monaco 2026",
+      "when": "Monaco · June 9–10, 2026",
+      "where": "One Monte-Carlo",
+      "desc": "Unusual categories, including Best AI Character Performance and Best Film For Kids.",
+      "href": "https://aifilmfest-monaco.com/"
+    },
+    {
+      "label": "WAIFF Cannes 2026",
+      "when": "Cannes · April 2026",
+      "where": "World AI Film Festival",
+      "desc": "The second WAIFF in Cannes. The 2027 Grand Finale is set for April 6–7, 2027 at the Palais des Festivals.",
+      "href": "https://worldaifilmfestival.com"
+    }
+  ],
+  "watch": [
+    {
+      "label": "TheGrill 2026: AI filmmakers on keeping humans in the loop",
+      "when": "Oct 2026 · Article",
+      "desc": "Eliza McNitt (Ancestra), Jason Zada (Secret Level) and Ori Winokur (Artlist) on hybrid live-action and AI work, previs, and why McNitt says \"we should unplug Tilly Norwood.\" Coverage from TheWrap.",
+      "href": "https://www.thewrap.com/creative-content/movies/ai-filmmakers-humans-need-to-be-involved-the-grill"
+    },
+    {
+      "label": "Art of the Frame: The Alan Smithee Round Table",
+      "when": "Sept 2026 · Podcast",
+      "desc": "Scott Simmons, Katie Hinsen, Michael Kammes and guests on AI inside Resolve and Adobe, post workflows and vertical microdramas.",
+      "href": "https://www.provideocoalition.com/art-of-the-frame-podcast-the-alan-smithee-round-table-how-will-ai-impact-the-future-of-filmmaking/"
+    },
+    {
+      "label": "Human Generative Workflows (Kathleen Kennedy / AFI group)",
+      "when": "Aug 2026 · Article",
+      "desc": "Hollywood's private AI talks among filmmakers, studio execs and tech people go public. The core idea: AI as human-controlled tools. Coverage in The Ankler.",
+      "href": "https://theankler.com/first-look-hollywoods-secret-ai-talks-go-public-heres-the-plan/"
+    },
+    {
+      "label": "Kling AI panel at the Cannes Marché",
+      "when": "May 2026 · Panel",
+      "desc": "Jon Erwin (House of David, Moses), Wei Li (Born of the Tides) and Eekjun Yang (Raphael) on AI supporting crews and budgets rather than replacing them.",
+      "href": "https://deadline.com/2026/05/kling-ai-house-of-david-moses-raphael-born-of-the-tides-1236915619/"
+    },
+    {
+      "label": "AI on the Lot",
+      "when": "May 2026 · Conference",
+      "desc": "A large, fast-growing LA industry conference on the Amazon MGM backlot, with Paul Schrader and Jon Erwin among the voices.",
+      "href": "https://deadline.com/2026/05/hollywood-ai-on-the-lot-conference-amazon-1236930197/"
+    },
+    {
+      "label": "TIME100 Talks at Cannes Lions",
+      "when": "2026 · Video",
+      "desc": "Dara Treseder (Autodesk), Lincoln Wallen (Framestore), Lauren Greenfield and others on craft, transparency and what AI still can't do.",
+      "href": "https://www.youtube.com/watch?v=bRvZRli7XXU"
+    },
+    {
+      "label": "The Art of the AI Feature Film",
+      "when": "Nov 2025 · Livestream",
+      "desc": "A rare roundtable with people who have actually finished feature-length AI films, including Hooroo Jackson and BLVCKLIGHT.",
+      "href": "https://www.youtube.com/watch?v=MKgLffwfYFY"
+    }
+  ],
+  "recurring": [
+    {
+      "label": "BC + AI Film Club",
+      "when": "Monthly · Vancouver",
+      "desc": "Screenings, technical deep dives and real talk on tools and production.",
+      "href": "https://luma.com/latest"
+    },
+    {
+      "label": "Digital Hollywood roundtables",
+      "when": "Archive",
+      "desc": "Kling and Luma \"roundtables of creatives\" from past editions, archived on their site.",
+      "href": "https://www.digitalhollywood.com/music---ai-2025"
+    },
+    {
+      "label": "Short Shorts Film Festival & ASIA",
+      "when": "Archive · Oct 2025",
+      "desc": "An international conference on creativity, collaboration and ethics in AI cinema. Video is available.",
+      "href": "https://shortshorts.org/content/home/17104/"
+    }
+  ]
+}
