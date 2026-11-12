@@ -1,0 +1,430 @@
+{
+  "week_of": "2026-11-09",
+  "checked": "2026-11-11",
+  "note": {
+    "title": "A new job title is spreading: Forward Deployed Creative",
+    "text": "Luma, Higgsfield and Magnific are all hiring for it this week, at $110K to $205K. The job: make great work with the company's AI tool in front of its clients, and show them how you did it. If you can make strong work fast and explain your process, that's a real career path now."
+  },
+  "jobs": [
+    {
+      "company": "Defiant (Will Poskett)",
+      "title": "AI Video Producer, mid to senior",
+      "tags": [
+        "Remote, anywhere",
+        "Freelance",
+        "Ads"
+      ],
+      "pay": "£400 - £450 / day",
+      "summary": "Creator-first agency. Strong on all major AI video tools (Higgsfield above all), can edit, uses ElevenLabs. Starts as a one-week gig with repeat work after. Tools and credits are paid for. Apply through the form in the post.",
+      "url": "https://www.linkedin.com/posts/will-poskett-62942716_after-a-couple-of-big-wins-we-are-looking-ugcPost-7525204547586142208-tWT_",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Designity",
+      "title": "AI-Enabled Creative Director",
+      "tags": [
+        "Remote, US only",
+        "Full-time",
+        "Agency"
+      ],
+      "pay": "$90K - $110K",
+      "summary": "Lead creative teams and sell ideas to clients, with AI built into how the work is made. Needs real creative-director experience plus hands-on AI workflows.",
+      "url": "https://www.linkedin.com/jobs/view/4487410549",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Telebrands",
+      "title": "Video Editor & AI Content Producer",
+      "tags": [
+        "Remote, US (Eastern hours)",
+        "Full-time",
+        "Commercials"
+      ],
+      "pay": "$75K - $95K",
+      "summary": "The 'As Seen on TV' company behind Pocket Hose. Strong editor who can make realistic AI product demos and believable human performances for TV spots and digital ads.",
+      "url": "https://www.linkedin.com/jobs/view/4487302053",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "PetLab Co.",
+      "title": "Video Editor & Producer (AI + performance ads)",
+      "tags": [
+        "Remote, US (EST hours)",
+        "Full-time",
+        "Ads"
+      ],
+      "pay": "$58K - $70K + bonus",
+      "summary": "High-volume AI-powered ads for Meta and TikTok, judged on how they sell, not how cinematic they look. Proven AI ad track record required.",
+      "url": "https://www.linkedin.com/jobs/view/4476654035",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Magnific",
+      "title": "AI Forward Deployed Creative, Filmmaker Expert",
+      "tags": [
+        "Remote (Los Angeles)",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "$110K - $160K",
+      "summary": "Build tailored demos and proofs of concept for Magnific's enterprise clients using its AI suite. A filmmaker's eye plus client-facing confidence.",
+      "url": "https://www.linkedin.com/jobs/view/4488237252",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Luma AI",
+      "title": "Forward Deployed Creative (US)",
+      "tags": [
+        "Remote, US only (or New York)",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "$145K - $205K + equity",
+      "summary": "Luma's creative lead with major brands and agencies: build AI production workflows with them and make high-craft work in Dream Machine as the proof.",
+      "url": "https://jobs.ashbyhq.com/lumaai/cb69274a-7161-44e5-abda-4a12cca6e057",
+      "source": "Luma AI careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Jerry",
+      "title": "Creative Director (Video Ads)",
+      "tags": [
+        "Remote, US",
+        "Full-time",
+        "Ads"
+      ],
+      "pay": "",
+      "summary": "Own the visual craft of Jerry's video output from concept to final cut at a well-funded pre-IPO startup.",
+      "url": "https://www.linkedin.com/jobs/view/4486276791",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "OpusClip",
+      "title": "Creative Community Lead",
+      "tags": [
+        "Remote",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "$195K - $280K + equity",
+      "summary": "Lead the creator community around the No. 1 AI clipping tool (20M+ users). For someone known and trusted among video creators.",
+      "url": "https://jobs.ashbyhq.com/opusclip/6427dab3-a657-459b-8e8f-9100036da34c",
+      "source": "OpusClip careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Ideogram",
+      "title": "Creative Technologist",
+      "tags": [
+        "Remote, Canada (Eastern time)",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "",
+      "summary": "Build and show AI-native creative workflows with Ideogram's image models. Canada-based, Eastern time zone.",
+      "url": "https://jobs.ashbyhq.com/Ideogram/e05672a2-2839-4725-9f55-1f605a0f166b",
+      "source": "Ideogram careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Sparked",
+      "title": "AI Video Creator (UGC-style ads)",
+      "tags": [
+        "Remote",
+        "Freelance, per project",
+        "Ads"
+      ],
+      "pay": "",
+      "summary": "Short vertical ecommerce ads that look real (Veo 3, Kling, HeyGen or similar). DM Patrick Perriel 2 or 3 examples and your per-video rate.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7525724106458263552/",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Artificial.film",
+      "title": "AI Video / Editing / Motion Design",
+      "tags": [
+        "Location not stated",
+        "Freelance, then full-time",
+        "B2B commercials"
+      ],
+      "pay": "",
+      "summary": "B2B commercial studio booked out until March. Freelance gigs that grow into full-time roles; they say they pay top dollar. Portfolio at artificial.film.",
+      "url": "https://www.linkedin.com/posts/ognjenboskovic_hiring-artificial-is-on-track-to-hit-1m-ugcPost-7526278072900198400-D-fp",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Amazon MGM Studios (AI Studio)",
+      "title": "GenAI Specialist",
+      "tags": [
+        "Culver City, CA (on site)",
+        "Full-time",
+        "Film & TV"
+      ],
+      "pay": "",
+      "summary": "Generative AI plus traditional VFX and filmmaking for film and TV content. CV and portfolio to the email in the post, not by DM.",
+      "url": "https://www.linkedin.com/posts/alexcancado_hiring-genai-generativeai-share-7526384501493641216-AWYu",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Fox Entertainment (FoxNXT)",
+      "title": "AI Supervisor, Scripted",
+      "tags": [
+        "Los Angeles, CA (on site)",
+        "Full-time",
+        "Film & TV"
+      ],
+      "pay": "$114K - $150K",
+      "summary": "Supervise AI on Fox's scripted productions inside FoxNXT, its innovation unit. A network-level AI filmmaking job.",
+      "url": "https://www.linkedin.com/jobs/view/4473068103",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Higgsfield AI",
+      "title": "Forward Deployed Creative",
+      "tags": [
+        "Los Angeles, CA",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "$125K - $200K + equity",
+      "summary": "Make work with Higgsfield for brands and studios and show them how. Posted Nov 10.",
+      "url": "https://jobs.ashbyhq.com/higgsfieldai/9fcc21c0-e095-444a-85ca-bfcc9127eaf6",
+      "source": "Higgsfield careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Odyssey",
+      "title": "Creative Producer",
+      "tags": [
+        "Palo Alto, CA",
+        "Full-time",
+        "AI lab"
+      ],
+      "pay": "$121K - $377K",
+      "summary": "AI lab building world models (team from DeepMind Veo, Tesla, Wayve). Produce the creative work that shows what the models can do.",
+      "url": "https://www.linkedin.com/jobs/view/4489920863",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "HeyGen",
+      "title": "AI Video Creator",
+      "tags": [
+        "Los Angeles or San Francisco",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "",
+      "summary": "Make HeyGen's showcase videos (demos, campaigns, social) from concept to final cut. You already live on the edge of generative video and have the portfolio.",
+      "url": "https://job-boards.greenhouse.io/heygen/jobs/5265289007",
+      "source": "HeyGen careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Luma AI",
+      "title": "Editor + Motion Graphics",
+      "tags": [
+        "Los Angeles, CA",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "$126K - $147K + equity",
+      "summary": "Edit and animate Luma's launch and brand videos.",
+      "url": "https://jobs.ashbyhq.com/lumaai/6e7d4b86-b359-43a7-bd75-c9efce10d5ad",
+      "source": "Luma AI careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "FLORA",
+      "title": "Creative Generalist (contract)",
+      "tags": [
+        "New York, NY",
+        "Contract",
+        "Tool maker"
+      ],
+      "pay": "$60 - $175 / hour",
+      "summary": "Make work on FLORA's AI creative canvas. Also open: Motion Designer, $75 - $150 / hour.",
+      "url": "https://jobs.ashbyhq.com/FLORA/cefd2429-99db-49b3-8b06-72a01b781c05",
+      "source": "FLORA careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Motion Designer",
+      "tags": [
+        "San Francisco, CA",
+        "Full-time",
+        "AI lab"
+      ],
+      "pay": "$223K - $247K + equity",
+      "summary": "Motion design for OpenAI's launches and product stories.",
+      "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce",
+      "source": "OpenAI careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Krea",
+      "title": "Creative",
+      "tags": [
+        "San Francisco, CA",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "",
+      "summary": "On the Krea Studio team, making the work that shows what Krea can do. Motion Designer also open.",
+      "url": "https://jobs.ashbyhq.com/krea/d22ed3a1-21ee-4010-b5fe-8d0cafde1497",
+      "source": "Krea careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Monks",
+      "title": "Creative AI Technologist",
+      "tags": [
+        "Los Angeles, CA (hybrid)",
+        "Full-time",
+        "Agency"
+      ],
+      "pay": "$115K - $145K",
+      "summary": "Global agency; AI creative work on a complex product account. Apply only at monks.com/careers (they warn of fake recruiters).",
+      "url": "https://www.linkedin.com/jobs/view/4481258442",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Team One (Publicis)",
+      "title": "AI Creative Technologist",
+      "tags": [
+        "New York, NY (hybrid, 3 days)",
+        "Full-time",
+        "Agency"
+      ],
+      "pay": "$81K - $130K",
+      "summary": "Luxury-brand agency (Lexus, Marriott). Bring AI tools into the creative process.",
+      "url": "https://www.linkedin.com/jobs/view/4470767581",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Opella",
+      "title": "Head of AI Creative Content & Innovation",
+      "tags": [
+        "Morristown, NJ",
+        "Full-time",
+        "Brand"
+      ],
+      "pay": "$161K - $233K",
+      "summary": "Build and lead AI content creation across a global consumer-health brand portfolio. Senior leadership role.",
+      "url": "https://www.linkedin.com/jobs/view/4489141186",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Oracle",
+      "title": "Senior AI Video & Creative Strategist",
+      "tags": [
+        "Redwood City, CA or Seattle, WA",
+        "Full-time",
+        "Tech brand"
+      ],
+      "pay": "$66K - $132K",
+      "summary": "Turn Oracle AI Database stories into video with generative tools. 'Not a traditional video production role.'",
+      "url": "https://www.linkedin.com/jobs/view/4485876677",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Luma AI",
+      "title": "Forward Deployed Creative (UK, French speaking)",
+      "tags": [
+        "London, UK",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "",
+      "summary": "Same job as the US role, for French-speaking clients in Europe.",
+      "url": "https://jobs.ashbyhq.com/lumaai/6fa7d096-37d5-43cb-ac31-ac97c9f05c66",
+      "source": "Luma AI careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Wiethe Content",
+      "title": "Creative AI Lead",
+      "tags": [
+        "Bremen, Germany",
+        "Full-time",
+        "Brand campaigns"
+      ],
+      "pay": "",
+      "summary": "Set the visual direction of AI-driven campaigns across AI, photography and CGI. Apply: bewirbdich@wiethe.com.",
+      "url": "https://www.linkedin.com/posts/a-brand-brief-lands-you-see-the-images-before-share-7523292639501320192-YMTp",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Face Protocol",
+      "title": "AI Creator / AI Video Artist",
+      "tags": [
+        "Ukraine",
+        "Full-time",
+        "Ads"
+      ],
+      "pay": "From UAH 70,000 / month",
+      "summary": "Take a scene from character prep to final animation. Seedance 2.5 required, 6+ months. Paid test task for finalists. Form only.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524618302631878656/",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Higgsfield AI",
+      "title": "Animation Generative Director",
+      "tags": [
+        "Almaty, Kazakhstan",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "",
+      "summary": "Direct generative animation work for Higgsfield. Posted Nov 7.",
+      "url": "https://jobs.ashbyhq.com/higgsfieldai/d313f1ed-dad4-41ee-9af2-fadb7c4c8432",
+      "source": "Higgsfield careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "LTX (Lightricks)",
+      "title": "AI Creative Designer",
+      "tags": [
+        "Jerusalem, Israel",
+        "Full-time",
+        "Tool maker"
+      ],
+      "pay": "",
+      "summary": "Creative work with LTX Studio and its video models.",
+      "url": "https://ltx.io/careers/position?gh_jid=8905017002",
+      "source": "LTX careers",
+      "found": "2026-11-11"
+    },
+    {
+      "company": "Aideators & Co.",
+      "title": "Junior AI Video Creator & Filmmaker",
+      "tags": [
+        "Pune, India (on site)",
+        "Full-time",
+        "Entry level"
+      ],
+      "pay": "",
+      "summary": "Episodic cinematic AI videos. Freshers welcome; they want people already making films on their own. Premiere, After Effects, Kling/Runway/Veo.",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7525573736108859393/",
+      "source": "LinkedIn",
+      "found": "2026-11-11"
+    }
+  ]
+}
